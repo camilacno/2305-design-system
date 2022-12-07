@@ -1,0 +1,2 @@
+import{A as t}from"./index.3c177756.js";import"./index.b90e7104.js";import"./iframe.3101965f.js";import"./index.b23146ac.js";import"./jsx-runtime.7600fd53.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/camilacno.png",alt:"Camila Nepomuceno"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},e=["Primary","WithFallback"];export{m as Primary,p as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.74d46bb5.js.map
